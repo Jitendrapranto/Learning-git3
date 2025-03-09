@@ -2,3 +2,4 @@ This is one.txt file.
 Now I am learning branching
 Author : Jitendra Pranto
 phone:01796950753
+Hi, I am Pranto.Now I am learning branching of git ..
